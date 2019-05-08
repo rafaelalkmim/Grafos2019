@@ -1,7 +1,5 @@
 /* Algoritmos em Grafos
-Alunos: 
-Rafael Alkmim Machado
-Raiana Pereira
+Autor: Rafael Alkmim Machado
 Prof. Raquel Mini
 Questao: Back to the Future
 */
